@@ -4,8 +4,5 @@ First line in this file
 Second text line is here!
 
 
-This is a now test redaction
-1
-2
-3
-4
+This changes make in new branch "experiment"! Yo=-Ho-Ho
+    Праввка в ветке experiment
